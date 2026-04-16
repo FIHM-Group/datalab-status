@@ -9,10 +9,10 @@ workflowSchedule:
 
 sites:
   - name: Cliffe Group Datalab
-    url: https://datalab.cliffegroup.co.uk
+    url: https://datalab.fihm.co.uk
     slug: cliffe-group-datalab
   - name: Cliffe Group Datalab (API)
-    url: https://datalab-api.cliffegroup.co.uk/healthcheck/is_ready
+    url: https://datalab-api.fihm.co.uk/healthcheck/is_ready
     slug: cliffe-group-datalab-api
 
 status-website:
@@ -29,8 +29,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/Cliffe-Group
-    - title: Cliffe Group
-      href: https://cliffegroup.co.uk
+    - title: FIHM
+      href: https://fihm.co.uk
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

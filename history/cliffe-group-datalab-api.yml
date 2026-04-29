@@ -1,7 +1,7 @@
 url: https://datalab-api.fihm.co.uk/healthcheck/is_ready
 status: up
 code: 200
-responseTime: 625
-lastUpdated: 2026-04-28T23:56:13.618Z
+responseTime: 680
+lastUpdated: 2026-04-29T23:56:17.416Z
 startTime: 2024-05-07T10:36:33.002Z
 generator: Upptime <https://github.com/upptime/upptime>
